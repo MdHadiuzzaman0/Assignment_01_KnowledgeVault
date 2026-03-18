@@ -183,8 +183,9 @@ a:hover{
 .card-info{
     /* border: 2px solid white; */
     width: 322px;
-    box-shadow: 0 0 1px 0;
+    box-shadow: 0 0 2px 0;
     border: none;
+    border-radius: 10px;
 }
 
 .card-info img{
@@ -195,7 +196,7 @@ a:hover{
 }
 
 .card-info h3{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     margin: 16px 0;
 }
@@ -203,6 +204,7 @@ a:hover{
 .card-info p{
     font-size: 16px;
     font-weight: 400;
+    margin-bottom: 50px;
 }
 
 .brain-container{
@@ -343,6 +345,7 @@ hr{
     margin: 0 120px 30px 120px;
     border: 0.1px solid;
     background: #E5E7EB;
+    opacity: 20%;
 }
 
 .final00{
